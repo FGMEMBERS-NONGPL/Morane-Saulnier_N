@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+
+    <!-- RPM -->
+  <model>
+    <path>Aircraft/Morane-Saulnier_N/Models/Instruments/tach/tach.xml</path>
+    <offsets>
+      <x-m>  0.313 </x-m>
+      <y-m>  -0.193 </y-m>
+      <z-m>  0.362 </z-m>
+      <roll-deg>    -3.0 </roll-deg>
+      <pitch-deg>   -57.0 </pitch-deg>
+      <heading-deg> 13.0 </heading-deg>
+    </offsets>
+  </model>
+
+ <!-- Magneto -->
+  <model>
+    <path>Aircraft/Morane-Saulnier_N/Models/Instruments/magneto/magneto.xml</path>
+    <offsets>
+      <x-m>   0.25 </x-m>
+      <y-m>   0.154 </y-m>
+      <z-m>  0.322 </z-m>
+      <roll-deg>    0.000 </roll-deg>
+      <pitch-deg>   0.000 </pitch-deg>
+      <heading-deg> 0.000 </heading-deg>
+    </offsets>
+  </model>
+
+ <!-- Altitude -->
+  <model>
+    <path>Aircraft/Morane-Saulnier_N/Models/Instruments/alt/alt.xml</path>
+    <offsets>
+      <x-m>   0.275 </x-m>
+      <y-m>   0.169 </y-m>
+      <z-m>  0.409 </z-m>
+      <roll-deg>    0.000 </roll-deg>
+      <pitch-deg>    -1.000 </pitch-deg>
+      <heading-deg> 0.000 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- Compass -->
+  <model>
+    <path>Aircraft/Morane-Saulnier_N/Models/Instruments/compass/compass.xml</path>
+    <offsets>
+      <x-m>   0.201 </x-m>
+      <y-m>  0.248 </y-m>
+      <z-m>   0.05 </z-m>
+      <roll-deg>    0.0 </roll-deg>
+      <pitch-deg>   0.0 </pitch-deg>
+      <heading-deg> -90 </heading-deg>
+    </offsets>
+  </model>
+
+  <!-- ASI -->
+  <model>
+    <path>Aircraft/Morane-Saulnier_N/Models/Instruments/asi/asi.xml</path>
+    <offsets>
+      <x-m>   0.28 </x-m>
+      <y-m>  -0.110 </y-m>
+      <z-m>   0.41 </z-m>
+      <roll-deg>      0.000 </roll-deg>
+      <pitch-deg>    0.000 </pitch-deg>
+      <heading-deg> -0.000 </heading-deg>
+    </offsets>
+  </model>
+
+</PropertyList>
