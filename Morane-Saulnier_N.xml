@@ -176,7 +176,10 @@ Performance
     <control-input axis="/controls/flight/rudder" control="STEER" src0="-1.0" src1="1.0" dst0="0.15" dst1="-0.15"/>
   </gear>
 
-  <!-- Fuel: Forward 120 lbs -->
+  
+  <weight x="-0.72" y="0.0" z="0.016" mass-prop="/sim/weight[0]/weight-lb"/>
+
+  <!-- Fuel: Forward 110 lbs -->
   <tank x="0.129" y="0" z="0.412" capacity="120"/>
   
 </airplane>

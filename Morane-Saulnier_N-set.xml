@@ -73,6 +73,14 @@
 
   <menubar include="Nasal/morane-saulnier-n-menu.xml"/>
 
+  <!-- Payload -->
+  <weight n="0">
+      <name>Pilot</name>
+      <weight-lb>160</weight-lb>
+      <max-lb>220</max-lb>
+      <min-lb>120</min-lb>
+  </weight> 
+
 
  </sim>
 
